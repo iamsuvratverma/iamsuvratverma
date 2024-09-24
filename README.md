@@ -17,10 +17,11 @@
 - ⚡ Fun fact **When I'm not coding, you can find me exploring new AI trends, diving into the world of data, or perfecting the art of making the perfect cup of Tea! ☕ Also, I believe that debugging is like being a detective in a crime movie where you are also the murderer! 😄**
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="left">
-<a href="https://twitter.com/suvratverma1" target="blank"><img align="center" src="https://x.com/SuvratVerma1?t=I4tJiejSEujdXDUym60Zfw&s=09" alt="suvratverma1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suvrat verma" target="blank"><img align="center" src="www.linkedin.com/in/suvratverma" alt="suvrat verma" height="30" width="40" /></a>
-<a href="https://kaggle.com/suvrat" target="blank"><img align="center" src="https://www.kaggle.com/shusuv" alt="suvrat" height="30" width="40" /></a>
-</p>
+<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsuvratverma&show_icons=true&locale=en&layout=compact" alt="iamsuvratverma" /></p>
