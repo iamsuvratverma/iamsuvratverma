@@ -18,9 +18,9 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
-<a href="https://twitter.com/suvratverma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suvratverma1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suvrat verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvrat verma" height="30" width="40" /></a>
-<a href="https://kaggle.com/suvrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suvrat" height="30" width="40" /></a>
+<a href="https://twitter.com/suvratverma1" target="blank"><img align="center" src="https://x.com/SuvratVerma1?t=I4tJiejSEujdXDUym60Zfw&s=09" alt="suvratverma1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suvrat verma" target="blank"><img align="center" src="www.linkedin.com/in/suvratverma" alt="suvrat verma" height="30" width="40" /></a>
+<a href="https://kaggle.com/suvrat" target="blank"><img align="center" src="https://www.kaggle.com/shusuv" alt="suvrat" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsuvratverma&show_icons=true&locale=en&layout=compact" alt="iamsuvratverma" /></p>
