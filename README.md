@@ -1,4 +1,4 @@
-<h1 align="center">Hi ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Suvrat Verma</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Suvrat Verma</h1>
 
 <h3 align="center">I’m a passionate developer with a strong background in Data Science, Machine Learning, and Web Development</h3>
 
