@@ -25,3 +25,6 @@
   <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsuvratverma&show_icons=true&locale=en&layout=compact" alt="iamsuvratverma" /></p>
+
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
