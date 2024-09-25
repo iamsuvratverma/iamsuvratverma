@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **suvratverma21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UL9oR91Qs2iVi6kwlcQYrToKMn73z3fv/view?usp=drivesdk](https://drive.google.com/file/d/1UL9oR91Qs2iVi6kwlcQYrToKMn73z3fv/view?usp=drivesdk)
+- 📄 Know about my experiences,My Resume [https://drive.google.com/file/d/1UL9oR91Qs2iVi6kwlcQYrToKMn73z3fv/view?usp=drivesdk](https://drive.google.com/file/d/1UL9oR91Qs2iVi6kwlcQYrToKMn73z3fv/view?usp=drivesdk)
 
 - ⚡ Fun fact **When I'm not coding, you can find me exploring new AI trends, diving into the world of data, or perfecting the art of making the perfect cup of Tea! ☕ Also, I believe that debugging is like being a detective in a crime movie where you are also the murderer! 😄**
 
